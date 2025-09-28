@@ -1,0 +1,10 @@
+C:\Users\PC602\source\repos\Lab3BaiC\Lab3BaiC\bin\Debug\Lab3BaiC.exe.config
+C:\Users\PC602\source\repos\Lab3BaiC\Lab3BaiC\bin\Debug\Lab3BaiC.exe
+C:\Users\PC602\source\repos\Lab3BaiC\Lab3BaiC\bin\Debug\Lab3BaiC.pdb
+C:\Users\PC602\source\repos\Lab3BaiC\Lab3BaiC\obj\Debug\Lab3BaiC.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\Lab3BaiC\Lab3BaiC\obj\Debug\Lab3BaiC.Properties.Resources.resources
+C:\Users\PC602\source\repos\Lab3BaiC\Lab3BaiC\obj\Debug\Lab3BaiC.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\Lab3BaiC\Lab3BaiC\obj\Debug\Lab3BaiC.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\Lab3BaiC\Lab3BaiC\obj\Debug\Lab3BaiC.exe
+C:\Users\PC602\source\repos\Lab3BaiC\Lab3BaiC\obj\Debug\Lab3BaiC.pdb
+C:\Users\PC602\source\repos\Lab3BaiC\Lab3BaiC\obj\Debug\Lab3BaiC.Form1.resources

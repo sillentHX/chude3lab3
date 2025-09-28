@@ -1,0 +1,3 @@
+1234567;Nguyen Van;An;09/11/2002;CTK43;123456789;0901.234.567;Da Lat;Nam;Hệ điều hành,Lập trình CSDL,Lập trình trên thiết bị di động
+2345678;Le Thi;Hoa;20/05/2001;CTK44;234567890;0912345678;Nha Trang;Nữ;Đồ án cơ sở,Phương pháp NCKH,Lập trình thiết bị di động
+3456789;Tran Van;Binh;15/03/2003;CTK45;345678901;0923456789;Buon Ma Thuot;Nam;Lập trình mạng,An toàn và bảo mật hệ thống
